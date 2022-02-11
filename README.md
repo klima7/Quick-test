@@ -10,14 +10,14 @@ Web app in Flask to make teachers and students life easier (students may have ob
 * Łukasz Klimkiewicz ([klima7](https://github.com/klima7))
 * Radosław Pluta ([RPAnimation](https://github.com/RPAnimation))
 
-# Index page
+## Index page
 <img src="https://github.com/klima7/Quick-test/blob/images/images/index1.png" width="700" />
 
-# Help section
+## Help section
 <img src="https://github.com/klima7/Quick-test/blob/images/images/index2.png" width="700" />
 
-# Teacher test panel
+## Teacher test panel
 <img src="https://github.com/klima7/Quick-test/blob/images/images/teacher.png" width="700" />
 
-# Test
+## Test
 <img src="https://github.com/klima7/Quick-test/blob/images/images/test.png" width="700" />
